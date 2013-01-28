@@ -1,0 +1,3 @@
+[submodule "submarine_proj"]
+	path = submarine_proj
+	url = git@github.com:emu47/submarine.git
